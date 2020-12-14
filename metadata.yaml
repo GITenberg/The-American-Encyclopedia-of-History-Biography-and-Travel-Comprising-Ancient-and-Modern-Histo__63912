@@ -1,0 +1,29 @@
+_repo: The-American-Encyclopedia-of-History-Biography-and-Travel-Comprising-Ancient-and-Modern-Histo__63912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prescott, Thomas H.
+    alias: Blake, William O.
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '52659'
+    url: http://www.gutenberg.org/2009/agents/52659
+description: ''
+gutenberg_issued: '2020-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63912'
+  lccn: 03028679
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World history'
+- !lcc 'D'
+- !lcsh 'Biography'
+- GITenberg
+title: "The American Encyclopedia of History, Biography and Travel\r\nComprising Ancient\
+  \ and Modern History: the Biography of Eminent Men of Europe and America, and the\
+  \ Lives of Distinguished Travelers."
+url: http://www.gutenberg.org/ebooks/63912
